@@ -14,6 +14,6 @@ export default props =>
         <Logo />
         <Nav />
         <Main icon='home' title='Inicio'
-            subtitle='Projeto cadastro de usuario usando React.' />
+            subtitle='Projeto cadastro de usuarios com de React.' />
         <Footer />
     </div>
