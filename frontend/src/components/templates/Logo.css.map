@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAEA,AAAA,KAAK,AAAA,KAAK,AAAC,CACP,gBAAgB,CAHV,OAAO,CAIb,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,MAAM,CACvB,WAAW,CAAE,MAAM,CACtB,AAED,AAAA,KAAK,AAAA,KAAK,CAAC,GAAG,AAAC,CACX,OAAO,CAAE,MAAM,CACf,KAAK,CAAE,IAAI,CACd",
     "sources": [
         "Logo.scss"
     ],
